@@ -1,0 +1,9 @@
+[submodule ".emacs.d/vendor/intero"]
+	path = .emacs.d/vendor/intero
+	url = https://github.com/commercialhaskell/intero
+[submodule ".emacs.d/vendor/markdown-mode"]
+	path = .emacs.d/vendor/markdown-mode
+	url = https://github.com/jrblevin/markdown-mode
+[submodule ".emacs.d/vendor/zenburn-emacs"]
+	path = .emacs.d/vendor/zenburn-emacs
+	url = https://github.com/bbatsov/zenburn-emacs
